@@ -22,9 +22,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/subsleuth.git
-cd subsleuth
-pip install -r requirements.txt --break-system-packages
+pkg update -y && pkg upgrade -y ; git clone https://github.com/bot-hash-hack/subsleuth.git ;cd subsleuth;pip install -r requirements.txt --break-system-packages
 ```
 
 ## Usage
